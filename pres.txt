@@ -1,4 +1,0 @@
-
-
-ChocoWays is a brand website template for a fictive chocolate store. It is mobile-first, and it uses Bootstrap4, HTML5, CSS3,
-Javascript and JQuery. 
