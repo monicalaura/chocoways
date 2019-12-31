@@ -351,12 +351,12 @@ footer{
 
   .point-left,
   .point-right{
-    display:none;
+   background:#201c19;
   }
 
   .point-right::before,
   .point-left::before{
-    background-color: #201c19;
+    display:none;
   }
 
  }
