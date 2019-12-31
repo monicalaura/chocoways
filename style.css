@@ -210,7 +210,9 @@ hr{
 .section-heading h1.featured{
   color:#dbc25c !important;
 }
-
+.menu-item-descr{
+  margin:auto;
+}
 .menu-item-descr h6, p {
   color:#fcf5da;
 }
@@ -250,6 +252,7 @@ hr{
 .point-left{
   position:relative;
   background:#fff;
+  display:flex;	
  
 
 }
