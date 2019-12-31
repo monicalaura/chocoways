@@ -310,7 +310,7 @@ footer{
   .menu-item-descr{
     margin-top:1rem;
     margin-bottom:3rem;
-
+    padding: 0.4rem; 
   }
   .point-left,
   .point-right{
