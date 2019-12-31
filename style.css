@@ -250,6 +250,7 @@ hr{
 .point-left{
   position:relative;
   background:#fff;
+  display:flex;	
 
 }
 
