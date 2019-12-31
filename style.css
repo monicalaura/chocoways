@@ -423,6 +423,12 @@ footer{
 		  transform: scaleX(1);
 	  }
 	  
+	  .point-right::before,
+      .point-left::before{
+         display:block;
+  }
+
+	  
 	  
  
  /*Large devices (desktops, 1200px and up)*/
